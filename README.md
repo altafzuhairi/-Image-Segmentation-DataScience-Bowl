@@ -2,7 +2,7 @@
 # 1. Summary
 The aim of this project is to detect cell nuclei using image segmentation process on biomedical images. The images of of the nuclei are acquired varying in cell type, magnification and imaging modality. Deep learning model is trained and deployed for this task. The dataset is acquired from https://www.kaggle.com/competitions/data-science-bowl-2018/data
 # 2. IDE and Framework
-Spyder is used as the main IDE for this project. The main framework used for this project are TensorFlow, Numpy, Matplotlib, OpenCV and scikit-learn
+VS Code is used as the main IDE for this project. The main framework used for this project are TensorFlow, Numpy, Matplotlib, OpenCV and scikit-learn
 # 3. Methodology
 The methodology for this project is inspired from official TensorFlow website which can be refer here: https://www.tensorflow.org/resources/models-datasets
 
